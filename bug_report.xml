@@ -1,1 +1,13 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+ <priority>критический</priority>
+ <header>отсутствует название города в хедере</header>
+ <environment>windows10, Chrome 92.0.45.15.131</environment>
+ <stand>nnnn</stand>
+ <steps>
+  1. перейти по ссылке ...,
+  2. в хедере завиксировать отсутствие названия города  
+ </steps>
+  <actual_result>отсутствует название города в хедере</actual_result>
+  <expected_result>название города в хедере присутствует</expected_result>
+</root>
